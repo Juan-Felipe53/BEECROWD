@@ -26,4 +26,5 @@ while x > 0:
             elif billetes[i]<2:
                 print(f"0 moeda(s) de R$ {billetes[i]:.2f}")
     
+print("prueba")
     
